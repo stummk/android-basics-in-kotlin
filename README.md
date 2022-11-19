@@ -37,3 +37,13 @@ The implemented apps of [Unit 1](https://developer.android.com/courses/android-b
 ## Unit 6: WorkManager
 
 ### Badges
+
+## [Modern Android app architecture](https://developer.android.com/courses/pathways/android-architecture)
+
+## [Accessibility](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
+
+<div>
+  <img src="https://developers.google.com/static/profile/badges/playlists/make-your-android-app-accessible/badge.svg" width="100" />
+</div>
+
+## [Kotlin coroutines](https://developer.android.com/courses/pathways/android-coroutines)
