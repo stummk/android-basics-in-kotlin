@@ -3,7 +3,7 @@ Kotlin exercises of Google Developer course: https://developer.android.com/cours
 
 ## Unit 1: Kotlin basics
 
-The implemented apps of [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) can be found in Unit 1 folder. It includes the 
+The implemented apps of [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) can be found in Unit_1 folder. It includes the 
 
 - Happy Birthday App
 - Dice Roller App
