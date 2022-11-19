@@ -1,31 +1,39 @@
 # Android basics in kotlin
 Kotlin exercises of Google Developer course: https://developer.android.com/courses/android-basics-kotlin/course
 
-## Unit 1
+## Unit 1: Kotlin basics
+
+The implemented apps of [Unit 1](https://developer.android.com/courses/android-basics-kotlin/unit-1) can be found in Unit 1 folder. It includes the 
+
+- Happy Birthday App
+- Dice Roller App
+- Lemonade Project App
 
 ### Badges
 
 <div>
   <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-one/badge.svg" width="100" />
   <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-two/android-basics-kotlin-pathway-two.svg" width="100" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-three/android-basics-kotlin-pathway-three.svg" width="100" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-pathway-four/android-basics-kotlin-pathway-four.svg" width="100" />
 </div>
 
-## Unit 2
+## Unit 2: Layouts
 
 ### Badges
 
-## Unit 3
+## Unit 3: Navigation
 
 ### Badges
 
-## Unit 4
+## Unit 4: Connect to the internet
 
 ### Badges
 
-## Unit 5
+## Unit 5: Data persistence
 
 ### Badges
 
-## Unit 6
+## Unit 6: WorkManager
 
 ### Badges
