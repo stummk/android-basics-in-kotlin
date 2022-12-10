@@ -40,6 +40,10 @@ The implemented apps of [Unit 1](https://developer.android.com/courses/android-b
 
 ## [Modern Android app architecture](https://developer.android.com/courses/pathways/android-architecture)
 
+<div>
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-architecture/badge.svg" width="100" />
+</div>
+
 ## [Accessibility](https://developer.android.com/courses/pathways/make-your-android-app-accessible)
 
 <div>
