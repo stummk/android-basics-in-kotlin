@@ -20,7 +20,19 @@ The implemented apps of [Unit 1](https://developer.android.com/courses/android-b
 
 ## Unit 2: Layouts
 
+The implemented apps of [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) can be found in Unit_2 folder. It includes the 
+
+- Tip Time App
+- Affirmations App
+- Dogglers App
+
 ### Badges
+
+<div>
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-2-pathway-1/badge.svg" width="100" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-2-pathway-2/badge.svg" width="100" />
+  <img src="https://developers.google.com/static/profile/badges/playlists/android/android-basics-kotlin-unit-2-pathway-3/badge.svg" width="100" />
+</div>
 
 ## Unit 3: Navigation
 
